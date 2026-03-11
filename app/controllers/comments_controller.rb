@@ -3,6 +3,9 @@ class CommentsController < ApplicationController
 
   # GET /comments or /comments.json NAM
   def index
+    # abc
+    # asd
+    # asdad
     @comments = Comment.all
   end
 
