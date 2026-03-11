@@ -1,0 +1,15 @@
+#node:
+git add.
+git branch
+git fetch
+git pull origin main
+git push -u origin name:branch
+git status
+git checkout -b
+git checkout
+git log
+git diff
+git commit -m ""
+git branch -D (delete)
+git branch -m (rename)
+
